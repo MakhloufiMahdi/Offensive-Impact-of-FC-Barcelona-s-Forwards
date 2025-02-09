@@ -1,0 +1,42 @@
+🎯 Barcelona’s Forward Performances
+1. Robert Lewandowski
+Goals: 9
+Assists: 0
+Shots on Target: 10
+Big Chances Created: 2
+Goals & Assists Combined: 9
+Expected Goals (xG): 8
+Lewandowski remains the team’s top scorer with 9 goals, though he hasn’t provided any assists. This suggests he operates primarily as a finisher rather than a creator. His 10 shots on target and 2 big chances created highlight his active role in the attack. Additionally, his xG of 8 indicates that he has slightly outperformed expectations, showcasing his efficiency.
+
+2. Raphinha
+Goals: 8
+Assists: 4
+Shots on Target: 11
+Big Chances Created: 8
+Conversion Rate: 48%
+Goals & Assists Combined: 12
+Expected Goals (xG): 4
+Raphinha is the most well-rounded contributor, scoring 8 goals while also providing 4 assists. His 48% conversion rate is impressive, showing his ability to capitalize on scoring opportunities. Additionally, he has created 8 big chances for his teammates, emphasizing his playmaking role. With an xG of only 4, he has far exceeded expectations in terms of goals.
+
+3. Lamine Yamal
+Goals: 2
+Assists: 2
+Shots on Target: 12
+Big Chances Created: 3
+Conversion Rate: 40%
+Goals & Assists Combined: 4
+Expected Goals (xG): 2
+Lamine Yamal has been relatively effective, with 4 goal contributions (2 goals & 2 assists). His 40% conversion rate suggests he is clinical in front of goal, but he hasn’t scored as much as other forwards. His 12 shots on target and 3 big chances created indicate an active presence in attack, but he is still developing his ability to fully exploit scoring opportunities.
+
+4. Ferran Torres
+Goals: 2
+Assists: 1
+Shots on Target: 5
+Big Chances Created: 1
+Conversion Rate: 33%
+Goals & Assists Combined: 3
+Expected Goals (xG): 2
+Ferran Torres has had a lower impact in terms of goals and assists, contributing only 2 goals and 1 assist. His 33% conversion rate is the lowest among the attackers, indicating a lack of efficiency in front of goal. With just 1 big chance created, his offensive involvement has been limited. His xG of 2 suggests he has performed as expected, but improvement is needed to make a greater impact.
+
+Barcelona’s forwards have scored 21 of the team’s 27 goals, accounting for 78% of the total goals.
+They have provided 7 of the team’s 20 assists, contributing 35% of total assists.
